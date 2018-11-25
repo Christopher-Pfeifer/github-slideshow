@@ -2,5 +2,5 @@
 Layout: Slide
 Title: "Welcome to our second slide"
 ---
-Your Text
+The rain in Spain stays mainly on the plain.
 Use the left arrow to go back!"
